@@ -1,0 +1,13 @@
+# フォルダー構成
+
+## HTML/CSS
+- SMACSSに準拠
+
+## JavaScript
+
+## フロントとサーバー
+- app
+  - front
+  - server
+
+## PHP
